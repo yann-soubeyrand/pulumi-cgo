@@ -1,0 +1,5 @@
+name: "cgo"
+runtime:
+  name: "go"
+  options:
+    buildTarget: "./pulumi-cgo"
